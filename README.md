@@ -2,7 +2,7 @@
 
 -->First we need to created a cluster in mongodb atlas.
 
--->  Install Express [npm i express] & Mongoose [npm i mongoose].
+-->  Install Express `npm i express ` & Mongoose `npm i mongoose`.
 
 -->And require Middleware without middleware we can't get requests and responses.
 
@@ -12,7 +12,7 @@ Check the models page for this breif clarification.
 
 -->Here are some common server-side operations.
 
-##CRUD operations on Tasks: =>[ POST // GET // PUT // DELETE ]
+##CRUD operations on Tasks: =>` POST // GET // PUT // DELETE `
 
  -->Create: This allows users to add new tasks to their list. The server receives the task details (title, description, etc.) via a POST request and stores them in a database or persistent storage.
 
