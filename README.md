@@ -7,10 +7,11 @@
 -->And require Middleware without middleware we can't get requests and responses.
 
 //Schema
+
 -->When connecting to a database, a schema refers to a logical blueprint that defines how data is organized within the database. It's essentially a set of rules that govern the structure of your data.
 Check the models page for this breif clarification.
 
--->Here are some common server-side operations.
+-->Here are some common server-side operations to `req & res` get the data from mongodb DataBase side.
 
 ##CRUD operations on Tasks: =>` POST // GET // PUT // DELETE `
 
